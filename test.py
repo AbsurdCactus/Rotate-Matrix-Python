@@ -1,0 +1,1 @@
+# Try to write separate class with all the test answers.
